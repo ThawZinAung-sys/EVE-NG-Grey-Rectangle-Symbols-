@@ -1,2 +1,2 @@
-# EVE-NG Grey-Rectangle-Symbols-
+# EVE-NG Grey Rectangle Symbols
 PNG format
